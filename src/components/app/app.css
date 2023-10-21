@@ -1,0 +1,33 @@
+.movie-app {
+    max-width: 1010px;
+    height: 100%;
+    background: #FFFFFF;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 36px;
+    padding-top: 13px;
+    padding-bottom: 17px;
+  }
+  
+  .example {
+    margin: 30% 0;
+    align-self: center;
+    background: inherit;
+  }
+  
+  .search-panel {
+    margin-top: 40px;
+  }
+  
+  .input-search {
+    height: 40px;
+  }
+  
+  .pagination {
+    padding-top: 37px;
+    display: flex;
+    justify-content: center;
+  }

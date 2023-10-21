@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  background-color: #FFFFFF;
+}
+
+ul {
+  list-style: none;
+}
+
+@media (min-width: 320px) and (max-width: 720px) {
+
+}
